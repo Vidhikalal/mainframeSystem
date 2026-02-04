@@ -1,0 +1,5 @@
+PAYROLL BATCH REPORT
+------------------------------------------------------------
+EMP COUNT | TOTAL HOURS | TOTAL GROSS
+------------------------------------------------------------
+TOTALS: 00005 employees, hours= 184.0, gross=$    4,308.68
